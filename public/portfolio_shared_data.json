@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Rey Mercado",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/44thm0820",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/reymercadousa/",
+          "class": "fab fa-linkedin-in"
         }
       ],
       "image": "myProfile.jpg"

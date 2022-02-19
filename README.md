@@ -57,9 +57,7 @@ Estimate of time needed to complete: 3 hours
 
 Start time: 230pm
 Break time: 6pm
-Continuing time: 
-Break time:   
-Continuing time: 
+Continuing time: 1020
 Finish time: 1130pm
 
-Actual time needed to complete: 
+Actual time needed to complete:
