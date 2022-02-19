@@ -14,20 +14,9 @@ class Experience extends Component {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
 
-        var mainTech = mainTechnologies.map((technology, i) => {
-          return (
-            <Badge pill className="main-badge mr-2 mb-2" key={i}>
-              {technology}
-            </Badge>
-          );
-        });
-        var tech = technologies.map((technology, i) => {
-          return (
-            <Badge pill className="experience-badge mr-2 mb-2" key={i}>
-              {technology}
-            </Badge>
-          );
-        });
+        var mainTech = mainTechnologies;
+
+        var tech = technologies;
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
